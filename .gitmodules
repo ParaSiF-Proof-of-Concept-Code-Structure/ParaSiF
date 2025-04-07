@@ -1,0 +1,3 @@
+[submodule "coupling/MUI"]
+	path = coupling/MUI
+	url = https://github.com/MxUI/MUI.git
