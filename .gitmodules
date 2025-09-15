@@ -1,9 +1,6 @@
 [submodule "coupling/MUI"]
 	path = coupling/MUI
 	url = https://github.com/MxUI/MUI.git
-[submodule "thirdParty/OpenFOAM_v2106-MUI_v1.2"]
-	path = thirdParty/OpenFOAM_v2106-MUI_v1.2
-	url = https://github.com/ParaSiF-Proof-of-Concept-Code-Structure/OpenFOAM_v2106-MUI_v1.2.git
-[submodule "thirdParty/DualSPHysics"]
-	path = thirdParty/DualSPHysics
-	url = https://github.com/ParaSiF-Proof-of-Concept-Code-Structure/DualSPHysics.git
+[submodule "src/FEniCSx"]
+	path = src/FEniCSx
+	url = https://github.com/ParaSiF-Proof-of-Concept-Code-Structure/ParaSiF_FEniCSx.git
