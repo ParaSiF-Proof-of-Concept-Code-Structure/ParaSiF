@@ -33,3 +33,5 @@
 
 # Debugging Submodules
 src/ParaSiF_FEniCSx
+src/ParaSiF_OpenFOAM_ESI
+
