@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Debugging Submodules
+src/ParaSiF_FEniCSx
