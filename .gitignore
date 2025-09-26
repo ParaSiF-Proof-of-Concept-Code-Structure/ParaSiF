@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# VS Code files
+**/.vscode/
+
 # Debugging Submodules
 src/ParaSiF_FEniCSx_Submodule
 src/ParaSiF_OpenFOAM_ESI_Submodule
